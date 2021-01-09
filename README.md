@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-## GITHUB STATS
+## GITHUB PUBLIC STATS
 
 [![KuuWang's github stats](https://github-readme-stats.vercel.app/api?username=shellcodesniper&locale=kr&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/shellcodesniper)
 
 ---
-## TOP LANGUAGES
+## MY GITHUB PUBLIC TOP LANGUAGES
 
 [![KuuWang'sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shellcodesniper&theme=dracula&hide=html,css&langs_count=7)](https://github.com/shellcodesniper)
 
