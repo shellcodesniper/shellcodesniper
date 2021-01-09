@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ---
 <p float="left">
-<img src="https://wakatime.com/share/@KuuWangE/7704f5b9-3b03-40e1-857e-138f0b4d60fa.svg" width="48%">
+<img src="https://wakatime.com/share/@KuuWangE/f6ea09a8-9b0c-41ba-b6a4-1fcf8798cc26.svg" width="48%">
 <img src="https://wakatime.com/share/@KuuWangE/468f48c1-1aa1-49ba-8f8b-dddf8feb3b3b.svg" width="48%">
 </p>
 ---
