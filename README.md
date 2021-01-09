@@ -27,8 +27,13 @@ Here are some ideas to get you started:
 
 [![KuuWang'sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shellcodesniper&theme=dracula&hide=html,css&langs_count=7)](https://github.com/shellcodesniper)
 
-## WAKA TIME - CODING ACTIVITY ( 7 days )
-[![KuuWang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KuuWangE&theme=dracula)](https://github.com/shellcodesniper)
+---
+
+![LANGS](https://wakatime.com/share/@KuuWangE/7704f5b9-3b03-40e1-857e-138f0b4d60fa.svg){: width="50%"}
+
+![TOTAL_CODED](https://wakatime.com/share/@KuuWangE/468f48c1-1aa1-49ba-8f8b-dddf8feb3b3b.svg){: width="50%"}
+
+---
 
 ## PROUD REPOS
 [![DOCKER 배포&관리툴](https://github-readme-stats.vercel.app/api/pin/?username=shellcodesniper&repo=Docker_HealthChecker&theme=dracula&show_owner=true)](https://github.com/shellcodesniper)
