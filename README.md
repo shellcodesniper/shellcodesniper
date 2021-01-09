@@ -28,11 +28,10 @@ Here are some ideas to get you started:
 [![KuuWang'sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shellcodesniper&theme=dracula&hide=html,css&langs_count=7)](https://github.com/shellcodesniper)
 
 ---
-
-![LANGS](https://wakatime.com/share/@KuuWangE/7704f5b9-3b03-40e1-857e-138f0b4d60fa.svg){: width="50%"}
-
-![TOTAL_CODED](https://wakatime.com/share/@KuuWangE/468f48c1-1aa1-49ba-8f8b-dddf8feb3b3b.svg){: width="50%"}
-
+<p float="left">
+<img src="https://wakatime.com/share/@KuuWangE/7704f5b9-3b03-40e1-857e-138f0b4d60fa.svg" width="48%">
+<img src="https://wakatime.com/share/@KuuWangE/468f48c1-1aa1-49ba-8f8b-dddf8feb3b3b.svg" width="48%">
+</p>
 ---
 
 ## PROUD REPOS
