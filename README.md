@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ---
 ## GITHUB PUBLIC STATS & PUBLIC TOP LANGUAGES
 
-[![KuuWang's github stats](https://github-readme-stats.vercel.app/api?username=shellcodesniper&locale=kr&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/shellcodesniper)
-[![KuuWang'sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shellcodesniper&theme=dracula&hide=html,css&layout=compact&langs_count=7)](https://github.com/shellcodesniper)
+[![KuuWang's github stats](https://github-readme-stats.vercel.app/api?username=shellcodesniper&locale=kr&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Kuuwang의%20Public%20Repo%20통계)](https://github.com/shellcodesniper)
+[![KuuWang'sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shellcodesniper&theme=dracula&hide=html,css&layout=compact&langs_count=7&custom_title=Public%20Repo%20Most%20Used%20Lang)](https://github.com/shellcodesniper)
 
 ---
 ## WAKA TIME STATUS
