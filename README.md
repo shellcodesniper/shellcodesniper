@@ -18,7 +18,6 @@
     - 카프카 ( 중상 )
   - DB?
     - ORACLE( not expert ) / MYSQL / MONGODB / REDIS
-    - ORACLE( not expert ) / MYSQL / MONGODB / REDIS
   
   - INDUSTRY_ || 산업용
     - [ROBOT] ACS MOTION CONTROLLER, sensors~, etc [FOR industrial Use]
