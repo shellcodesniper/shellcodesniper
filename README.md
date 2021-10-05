@@ -1,19 +1,29 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+- 🔭 working on Backend / Electron / Nodejs / Python / C++ / C / LISP etc, but i love Deeeeeeeeeeeeeep Things like Kernel
+- 😎 I can do
+  - DOCKER!
+  - **SYSTEM! (♥ I LOVE IT ♥)_ RUST(ESPECIALLY) / C,++,# / PYTHON (verrry frequently use!) / shell script**
 
-- 🔭 I’m currently working on Backend / Electron / Nodejs / Python / C++ / C / LISP etc, but i love Deeeeeeeeeeeeeep Things like Kernel
+  - WEB_ BACKEND ( 6yr Exp ) - NODEJS ( KOA + TYPESCRIPT!! )
+  - MQ_ Apache Kafka ( middle level skill )
+  - DB?_ ORACLE( not expert ) / MYSQL / MONGODB / REDIS
 
-- 🌱 I’m currently learning Disassembly / **Javascript** / **Electron** / MongoDB
+  - INDUSTRY_ [ROBOT] ACS MOTION CONTROLLER, sensors~, etc [FOR industrial Use]
+  - MOBILE_ IOS / AOS [ aren't that interested ]
 
-- 👯 I’m looking to collaborate on BACKEND
+- ‼ I'm interested in_ Low Level System!
 
-- 💬 I'm interested in **JavaScript** These Days
+- 👯 I’m looking to collaborate on ANYTHING!
+
+- 💬 I'm interested in **RUST / typescript** These Days
+
+- 📫 How to reach me: admin@kuuwang.com / shellcodesniper@gmail.com / admin@bdev.io [WHATEVER YOU WANT]
 
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
