@@ -1,10 +1,11 @@
 ### Hi there 👋 || 안녕하세요! 👋
 
-- 🔭 working on backend programming / design architecture / studying || 백엔드 프로그래밍 / 시스템 설계 / 공부 하고있습니다.
+- 🔭 working on backend programming / design architecture / studying
+- 백엔드 프로그래밍 / 시스템 설계 / 공부 하고있습니다.
 
 
 - 😎 **I can do || 난 할수있다 이것을.**
-  - DOCKER! || 도커
+  - DOCKER! || **도커**
   - **SYSTEM! (♥ I LOVE IT ♥)**
     - **RUST(ESPECIALLY) / C,++,# / PYTHON (verrry frequently use!) / shell script**
     - **RUST(완전좋아합니다) / C,++,# / PYTHON (유틸성으로 최고죠!) / shell script**
