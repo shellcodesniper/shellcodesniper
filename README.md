@@ -1,22 +1,38 @@
-### Hi there 👋
+### Hi there 👋 || 안녕하세요! 👋
 
-- 🔭 working on Backend / Electron / Nodejs / Python / C++ / C / LISP etc, but i love Deeeeeeeeeeeeeep Things like Kernel
-- 😎 I can do
-  - DOCKER!
-  - **SYSTEM! (♥ I LOVE IT ♥)_ RUST(ESPECIALLY) / C,++,# / PYTHON (verrry frequently use!) / shell script**
+- 🔭 working on backend programming / design architecture / studying || 백엔드 프로그래밍 / 시스템 설계 / 공부 하고있습니다.
 
-  - WEB_ BACKEND ( 6yr Exp ) - NODEJS ( KOA + TYPESCRIPT!! )
-  - MQ_ Apache Kafka ( middle level skill )
-  - DB?_ ORACLE( not expert ) / MYSQL / MONGODB / REDIS
 
-  - INDUSTRY_ [ROBOT] ACS MOTION CONTROLLER, sensors~, etc [FOR industrial Use]
-  - MOBILE_ IOS / AOS [ aren't that interested ]
+- 😎 **I can do || 난 할수있다 이것을.**
+  - DOCKER! || 도커
+  - **SYSTEM! (♥ I LOVE IT ♥)**
+    - **RUST(ESPECIALLY) / C,++,# / PYTHON (verrry frequently use!) / shell script**
+    - **RUST(완전좋아합니다) / C,++,# / PYTHON (유틸성으로 최고죠!) / shell script**
+  
+  - WEB_
+    - BACKEND ( 6yr Exp ) - NODEJS ( KOA + TYPESCRIPT!! )
+    - 백엔드 (21년 기준 6년차) - NODEJS ( KOA + TYPESCRIPT) 조합의 RESTFUL API 서버를 지향합니다!
 
-- ‼ I'm interested in_ Low Level System!
+  - MQ
+    - Apache Kafka ( middle level skill )
+    - 카프카 ( 중상 )
+  - DB?
+    - ORACLE( not expert ) / MYSQL / MONGODB / REDIS
+    - ORACLE( not expert ) / MYSQL / MONGODB / REDIS
+  
+  - INDUSTRY_ || 산업용
+    - [ROBOT] ACS MOTION CONTROLLER, sensors~, etc [FOR industrial Use]
+    - [기계제어] ACS MOTION CONTROLLER와 센서 기타등등 [산업 라인 설비]
+  - MOBILE
+    - IOS / AOS [ aren't that interested ]
+    - 안드와 아이폰 [ 그닥 관심은 많이없어요 ]
 
-- 👯 I’m looking to collaborate on ANYTHING!
+- ‼ I'm interested in_ Low Level System! || 뼈대와 원리에 대해 엄청 관심있는 지금!
+
+- 👯 I’m looking to collaborate on ANYTHING! || 무엇이든 괜찮습니다! 같이해요 :)
 
 - 💬 I'm interested in **RUST / typescript** These Days
+- 💬 요즘은 RUST, TS 이쪽에 관심가더라구여
 
 - 📫 How to reach me: admin@kuuwang.com / shellcodesniper@gmail.com / admin@bdev.io [WHATEVER YOU WANT]
 
