@@ -60,5 +60,5 @@
 ---
 
 ## PROUD REPOS
-[![DOCKER 배포&관리툴](https://github-readme-stats.vercel.app/api/pin/?username=shellcodesniper&repo=SimpleDeploy&theme=dracula&show_owner=true)](https://github.com/shellcodesniper)
+[![DOCKER 배포&관리툴](https://github-readme-stats.vercel.app/api/pin/?username=shellcodesniper&repo=SimpleDeployer&theme=dracula&show_owner=true)](https://github.com/shellcodesniper)
 [![python AWS S3 ROTATE LOGGER](https://github-readme-stats.vercel.app/api/pin/?username=shellcodesniper&repo=aws_logging_handlers&theme=dracula&show_owner=true)](https://github.com/shellcodesniper)
