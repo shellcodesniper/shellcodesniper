@@ -1,8 +1,12 @@
 ### Hi there 👋 || 안녕하세요! 👋
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshellcodesniper%2F&count_bg=%2379C83D&title_bg=%23555555&icon=hashnode.svg&icon_color=%23E7E7E7&title=HIT%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<div align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=shellcodesniper&theme=chalk&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shellcodesniper&theme=chalk&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 working on backend programming / design architecture / studying
 - 백엔드 프로그래밍 / 시스템 설계 / 공부 하고있습니다.
 
@@ -47,10 +51,11 @@
 - ⚡ Fun fact: ...
 -->
 ---
-## GITHUB PUBLIC STATS & PUBLIC TOP LANGUAGES
+## GITHUB PUBLIC STATS
 
-[![KuuWang's github stats](https://github-readme-stats.vercel.app/api?username=shellcodesniper&locale=kr&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Kuuwang의%20Public%20Repo%20통계)](https://github.com/shellcodesniper)
-[![KuuWang'sTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shellcodesniper&theme=dracula&hide=html,css&layout=compact&langs_count=7&custom_title=Public%20Repo%20Most%20Used%20Lang)](https://github.com/shellcodesniper)
+<p align="center">
+  <img alig src="https://github-readme-stats.vercel.app/api?username=shellcodesniper&locale=kr&show_icons=true&theme=dracula&include_all_commits=true&custom_title=Kuuwang의%20Public%20Repo%20통계" />
+</p>
 
 ---
 ## WAKA TIME STATUS
