@@ -1,5 +1,7 @@
 ### Hi there 👋 || 안녕하세요! 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshellcodesniper%2F&count_bg=%2379C83D&title_bg=%23555555&icon=hashnode.svg&icon_color=%23E7E7E7&title=HIT%21&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shellcodesniper)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 working on backend programming / design architecture / studying
 - 백엔드 프로그래밍 / 시스템 설계 / 공부 하고있습니다.
