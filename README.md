@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on ANYTHING! || 무엇이든 괜찮습니다! 같이해요 :)
 - 💬 I'm interested in **RUST / typescript** These Days
 
-- 📫 How to reach me: admin@kuuwang.com / shellcodesniper@gmail.com / admin@bdev.io [WHATEVER YOU WANT]
+- 📫 How to reach me: admin@bdev.io [WHATEVER YOU WANT]
 
 ## WAKA TIME STATUS
 
