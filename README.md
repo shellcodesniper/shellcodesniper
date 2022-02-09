@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Haneum-Park&theme=chalk&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&column=3" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Haneum-Park&theme=chalk&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=15&margin-h=15&column=3" />
 </div>
 
 - 😎 **I can do || 난 할수있다 이것을.**
