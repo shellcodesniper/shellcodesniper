@@ -33,4 +33,9 @@
   <img src="https://wakatime.com/share/@KuuWangE/468f48c1-1aa1-49ba-8f8b-dddf8feb3b3b.svg" width="42%">
 </p>
 
+## CODING ACTIVITY LAST YEAR
+<p>
+<img src="https://wakatime.com/share/@KuuWangE/6e2a5d8e-578f-459e-bcc2-dee6662cc747.svg" width="100%">
+</p>
+
 ---
