@@ -93,6 +93,8 @@
 
 ## SOLVED.AC
 
+> (start recently)
+
 <div align="center">
   <a href="https://solved.ac/shellcodesniper">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=shellcodesniper" />
