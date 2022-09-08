@@ -1,33 +1,64 @@
-### Hi there 👋 || 안녕하세요! 👋
-
-<p dir="auto">
-  <a href="https://hits.seeyoufarm.com" rel="nofollow"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshellcodesniper%2F&count_bg=%2379C83D&title_bg=%23555555&icon=hashnode.svg&icon_color=%23E7E7E7&title=HIT%21&edge_flat=false" style="max-width: 100%;"></a>
-</p>
-<br/><br/>
-
-<div align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=shellcodesniper&theme=chalk&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=15&margin-h=15&column=5" />
+<div> 
+  <div align="right" style="display: flex;">
+    <span dir="auto">
+      <a href="https://hits.seeyoufarm.com" rel="nofollow"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshellcodesniper%2F&count_bg=%2379C83D&title_bg=%23555555&icon=hashnode.svg&icon_color=%23E7E7E7&title=HIT%21&edge_flat=true" style="max-width: 100%;"></a>
+    </span>
+  </div>
+  <div align="left" style="display: flex;">
+    <b>Hi there 👋 || 안녕하세요! 👋</b>
+  </div> 
 </div>
+<br />
 
-- ‼ I'm interested in_ Low Level System! || 뼈대와 원리에 대해 엄청 관심있는 지금!
+<!-- 트로피! -->
+<div align="center">
+  <img align="middle" src="https://github-profile-trophy.vercel.app/?username=shellcodesniper&theme=chalk&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=15&margin-h=15&column=5" />
+</div>
+<br />
+
+<!-- 연락처 -->
+<div align="center">
+  <b>CONTACT</b>:&nbsp;&nbsp;
+  <a href="mailto:admin@bdev.io">
+    <img align="center" src="https://img.shields.io/badge/MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>&nbsp;&nbsp;
+  <b>BLOG</b>:&nbsp;&nbsp;
+  <a href="https://blog.ql.gl/">
+    <img align="center" src="https://img.shields.io/badge/BLOG-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+  </a>&nbsp;&nbsp;
+  <b>INSTAGRAM</b>:&nbsp;&nbsp;
+    <a href="https://www.instagram.com/kuuwange" rel="nofollow">
+      <img align="center" src="https://img.shields.io/badge/INSTA-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>&nbsp;&nbsp;
+  <b>LINKEDIN</b>:&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/kuuwange" rel="nofollow">
+      <img align="center" src="https://img.shields.io/badge/LINKED-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>&nbsp;&nbsp;
+</div>
+<br />
+
+<!-- 소개 -->
+- ‼ I'm interested in Low Level System! || 뼈대와 원리에 대해 엄청 관심 많아요!
 - 👯 I’m looking to collaborate on ANYTHING! || 무엇이든 괜찮습니다! 같이해요 :)
-
-<b>CONTACT</b>:&nbsp;&nbsp;<a href="mailto:admin@bdev.io"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
-<b>BLOG</b>:&nbsp;&nbsp;<a href="https://blog.ql.gl/"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"></a>&nbsp;&nbsp;
-<b>INSTAGRAM</b>:&nbsp;&nbsp;<a href="https://www.instagram.com/kuuwange" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>&nbsp;&nbsp;
-<b>LINKEDIN</b>:&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kuuwange" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 
 <br/>
 
-# TECH STACK & THINGS
 
-## RECENTLY + FAVORITE
+<!-- 기술 -->
+### TECH STACK || THINGS?
+
+<br />
+
+<!-- 최근관심사 -->
+### RECENTLY + FAVORITE
 ![MacOS](https://img.shields.io/badge/macOS-black?&style=for-the-badge&logo=macOS&logoColor=white)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-E57324?style=for-the-badge&logo=rust&logoColor=black)&nbsp;
 ![NodeVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)&nbsp;
 
+<br />
 
-## Depending on Purpose ( Experienced and moreee )
+### Depending on Purpose ( Experienced and moreee )
+<br />
 
 ### OS
 ![Rhel](https://img.shields.io/badge/Red%20Hat-black?style=flat-square&logo=Red%20Hat&logoColor=EE0000)&nbsp;
@@ -85,30 +116,64 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)&nbsp;
 ![Paypal](https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white)&nbsp;
 
-## WAKA TIME STATUS
-
-<p float="left">
-  <img src="https://wakatime.com/share/@KuuWangE/f6ea09a8-9b0c-41ba-b6a4-1fcf8798cc26.svg" width="42%">
-  &nbsp;  &nbsp;  &nbsp;
-  <img src="https://wakatime.com/share/@KuuWangE/468f48c1-1aa1-49ba-8f8b-dddf8feb3b3b.svg" width="42%">
-</p>
-
-## CODING ACTIVITY LAST YEAR
-<p>
-<img src="https://wakatime.com/share/@KuuWangE/6e2a5d8e-578f-459e-bcc2-dee6662cc747.svg" width="100%">
-</p>
-
----
-
 <br/>
 
-## SOLVED.AC
+<!-- STATS -->
+### STATS
+
+<table width="100%">
+  <tr>
+    <th align="center">
+      <img width="441" height="1">
+      <p> 
+        <small>
+          Languages All Time
+        </small>
+      </p>
+    </th>
+    <th align="center">
+      <img width="441" height="1">
+        <p> 
+        <small>
+          Coding Activities (Since 2020)  
+        </small>
+      </p>
+    </th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://wakatime.com/share/@KuuWangE/f6ea09a8-9b0c-41ba-b6a4-1fcf8798cc26.svg" width="100%">
+    </td>
+    <td valign="top">
+      <img src="https://wakatime.com/share/@KuuWangE/468f48c1-1aa1-49ba-8f8b-dddf8feb3b3b.svg" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="width:100%">
+      <div align="center">
+        <b >My Grass</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="width:100%">
+      <img src="https://wakatime.com/share/@KuuWangE/6e2a5d8e-578f-459e-bcc2-dee6662cc747.svg" width="100%">
+    </td>
+  </tr>
+</table>
+
+
+<!-- 비활성화 -->
+<!--
+<br />
+
+### SOLVED.AC
 
 > (start recently)
 
-<div align="center">
+ <div align="center">
   <a href="https://solved.ac/shellcodesniper">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=shellcodesniper" />
   </a>
 </div>
-<br/>
+<br/>-->
