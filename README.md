@@ -151,7 +151,7 @@
   <tr>
     <td colspan="2" style="width:100%">
       <div align="center">
-        <img align="middle" width="24%" src="https://raw.githubusercontent.com/shellcodesniper/shellcodesniper/master/table_title.svg" />
+        <img align="middle" width="100%" height="54" src="https://raw.githubusercontent.com/shellcodesniper/shellcodesniper/master/table_title.svg" />
       </div>
     </td>
   </tr>
