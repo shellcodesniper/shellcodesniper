@@ -45,8 +45,10 @@
 
 
 <!-- 기술 -->
-### TECH STACK || THINGS?
 
+<div align="center" width"100%">
+  <img align="top" src="https://raw.githubusercontent.com/shellcodesniper/shellcodesniper/master/stack.svg">
+</div>
 <br />
 
 <!-- 최근관심사 -->
@@ -57,7 +59,10 @@
 
 <br />
 
-### Depending on Purpose ( Experienced and moreee )
+<!-- depending on purpose -->
+<div align="left" width"100%">
+  <img align="top" src="https://raw.githubusercontent.com/shellcodesniper/shellcodesniper/master/depending.svg">
+</div>
 <br />
 
 ### OS
