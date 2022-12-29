@@ -24,9 +24,9 @@
   <a href="mailto:admin@bdev.io">
     <img align="center" src="https://img.shields.io/badge/MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp;&nbsp;
-  <b>BLOG</b>:&nbsp;&nbsp;
-  <a href="https://blog.ql.gl/">
-    <img align="center" src="https://img.shields.io/badge/BLOG-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+  <b>HOMEPAGE</b>:&nbsp;&nbsp;
+  <a href="https://ql.gl/">
+    <img align="center" src="https://img.shields.io/badge/QL.GL-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
   </a>&nbsp;&nbsp;
   <b>INSTAGRAM</b>:&nbsp;&nbsp;
     <a href="https://www.instagram.com/kuuwange" rel="nofollow">
