@@ -175,7 +175,7 @@
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://wakatime.com/share/@KuuWangE/f6ea09a8-9b0c-41ba-b6a4-1fcf8798cc26.svg" width="100%">
+      <img src="https://wakatime.com/share/@KuuWangE/e6e94e4d-66c7-44ff-a096-1eebd20ae69c.svg" width="100%">
     </td>
     <td valign="top">
       <img src="https://wakatime.com/share/@KuuWangE/468f48c1-1aa1-49ba-8f8b-dddf8feb3b3b.svg" width="100%">
