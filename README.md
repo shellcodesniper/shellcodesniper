@@ -30,10 +30,6 @@
   <a href="https://ql.gl/">
     <img align="center" src="https://img.shields.io/badge/QL.GL-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
   </a>&nbsp;&nbsp;
-  <b>INSTAGRAM</b>:&nbsp;&nbsp;
-    <a href="https://www.instagram.com/kuuwange" rel="nofollow">
-      <img align="center" src="https://img.shields.io/badge/INSTA-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>&nbsp;&nbsp;
   <b>LINKEDIN</b>:&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/kuuwange" rel="nofollow">
       <img align="center" src="https://img.shields.io/badge/LINKED-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
