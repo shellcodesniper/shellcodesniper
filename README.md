@@ -23,7 +23,7 @@
 <!-- 연락처 -->
 <div align="center">
   <b>CONTACT</b>:&nbsp;&nbsp;
-  <a href="mailto:admin@bdev.io">
+  <a href="mailto:root@ql.gl">
     <img align="center" src="https://img.shields.io/badge/MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp;&nbsp;
   <b>HOMEPAGE</b>:&nbsp;&nbsp;
