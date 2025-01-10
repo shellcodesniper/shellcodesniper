@@ -174,7 +174,7 @@
       <img src="https://wakatime.com/share/@KuuWangE/e6e94e4d-66c7-44ff-a096-1eebd20ae69c.svg" width="100%">
     </td>
     <td valign="top">
-      <img src="https://wakatime.com/share/@KuuWangE/468f48c1-1aa1-49ba-8f8b-dddf8feb3b3b.svg" width="100%">
+      <img src="https://wakatime.com/share/@KuuWangE/e9703944-2cdf-4739-8267-b7b6b80e1e9a.svg" width="100%">
     </td>
   </tr>
   <tr>
